@@ -25,5 +25,4 @@ Our findings demonstrate that deep learning methods, particularly when combined 
 # Reference
 > - The dataset is part of the VisioMel Challenge: Predicting Melanoma Relapse (https://www.drivendata.org/competitions/148/visiomel-melanoma/)
 > - The base model is based on the work of secod place winner of the challenge (https://github.com/drivendataorg/visiomel-melanoma/tree/main/2nd%20Place)
-> - The patch extraction is based on the work in https://github.com/drivendataorg/tissuenet-cervical-biopsies/tree/main/3rd%20Place
 
