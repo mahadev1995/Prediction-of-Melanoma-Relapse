@@ -22,5 +22,8 @@ Our findings demonstrate that deep learning methods, particularly when combined 
 > - **WSI_Model** directory contains code for  Whole slide model (Deep Learning model using both WSI and meta data)
 > - **Documentation** directory contains latex code for the report as well as the final presentation file
 
-
+# Reference
+> - The dataset is part of the VisioMel Challenge: Predicting Melanoma Relapse (https://www.drivendata.org/competitions/148/visiomel-melanoma/)
+> - The base model is based on the work of secod place winner of the challenge (https://github.com/drivendataorg/visiomel-melanoma/tree/main/2nd%20Place)
+> - The patch extraction is based on the work in https://github.com/drivendataorg/tissuenet-cervical-biopsies/tree/main/3rd%20Place
 
