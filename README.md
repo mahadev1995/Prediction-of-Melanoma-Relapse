@@ -1,6 +1,6 @@
 # VisioMel Challenge: Predicting Melanoma Relapse
 
-This repository contains code and report for seminar project on predicting melanoma relapse using digital microscopic slides and clinical metadata. Our work compares the performance of one machine learning approach and four deep learning approaches, with results indicating that deep learning models outperform machine learning models.
+This repository contains code and report for seminar project on predicting melanoma relapse using digital microscopic slides and clinical metadata. Our work compares the performance of one machine learning approach and four deep learning approaches, with results indicating that patch based two-stage deep learning approach outperform other approaches.
 ###### Schematic diagram of overall relapse prediction process
 <img src="/images/aim.svg" width="512" height="270"  title="Aim" />
 
